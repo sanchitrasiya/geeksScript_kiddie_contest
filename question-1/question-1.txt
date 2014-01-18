@@ -1,0 +1,26 @@
+Contest Opens- January 16, 2014 - 12:00 PM IST
+Contest Closes- January 18, 2014 - 12:00 PM IST
+-------------------------------------------------
+
+Your shell/bash script will do the following-
+
+Task 1)
+
+1. Display 'Initialising' followed by current time(Hour:Minutues:Secs) 
+
+2. Store [each in separate line] shell name, usernames of all users on the system, the current directory, username of the logged in user in a file named 'file'.
+
+3. Display the follwoing on screen-
+-'Data Saved in the file- <filename>'.
+-The count of words, lines and characters in the above file.
+-The count of pattern 'file' in the file.
+
+Task 2)
+
+1. Take a file name from user and do the standard check and take out all the email ids from it. Store these email ids in 4 different files ie “.com” in one file, “.net” in second file, “.org” in third file, and rest in others. Eg. mail@geeksScript.com should be stored in one file and hi@hey.net should be stored in different file and so on. (Sample file containing email ids can be downloaded below).
+
+2. Display all task compeleted followed by current time(Hour:Minutues:Secs).
+
+3. Fail this shell script programmatically with return value other than 0.
+
+Note- Keep your script short and fast!
